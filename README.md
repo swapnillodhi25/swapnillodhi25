@@ -13,15 +13,13 @@
 
 - 🌱 I’m currently learning *DSA with C++ , Web development*
 
-- 👯 I’m looking to collaborate on [https://swapnillodhi.me/](https://swapnillodhi.me/)
+- 👯 I’m looking to collaborate on [https://swapnillodhi25.github.io/Portfolio/](https://swapnillodhi25.github.io/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://swapnillodhi.me/](https://swapnillodhi.me/)
-
-- 📝 I regularly write articles on [https://swapnillodhi.me/](https://swapnillodhi.me/)
+- 👨‍💻 All of my projects are available at [https://swapnillodhi25.github.io/Portfolio/](https://swapnillodhi25.github.io/Portfolio/)
 
 - 📫 How to reach me **lodhiswapnil04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1saAzrLxpHy_4Z_ARbGRZmXOaSlhs_VPR/view?usp=drivesdk](https://drive.google.com/file/d/1saAzrLxpHy_4Z_ARbGRZmXOaSlhs_VPR/view?usp=drivesdk)
+- 📄 Know about my experiences [https://swapnillodhi25.github.io/Portfolio/](https://swapnillodhi25.github.io/Portfolio/)
 
 - ⚡ Fun fact *I think I am an introvert*
 
