@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnillodhi25&label=Profile%20views&color=0e75b6&style=flat" alt="swapnillodhi25" /> </p>
 
-- 🔭 I’m currently working on **C++, DSA ,Python**
+- 🔭 I’m currently working on **C++, DSA **
 
 - 🌱 I’m currently learning **DSA with C++,and Apps Development**
 
